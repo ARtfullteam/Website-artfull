@@ -253,3 +253,15 @@ footer .layar-dalam .copyright {
     display: flex;
   }
 }
+@media screen and (max-width: 768px) {
+  .layar-dalam {
+    width: 90%;
+    font-size: 75%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .layar-dalam {
+    width: 90%;
+    font-size: 65%;
+  }
+}
